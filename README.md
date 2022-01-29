@@ -1,0 +1,3 @@
+# sticker-antifasching
+
+![](antifasching.png)
